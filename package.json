@@ -1,6 +1,6 @@
 {
-  "name": "com.solidalloy.extevents",
-  "version": "1.7.0",
+  "name": "com.rookgames.extevents",
+  "version": "1.7.1",
   "displayName": "ExtEvents",
   "description": "UnityEvents, but better.",
   "dependencies": {
@@ -16,7 +16,7 @@
     "editor"
   ],
   "author": {
-    "name": "SolidAlloy",
-    "url": "https://github.com/SolidAlloy/"
+    "name": "Rook Games",
+    "url": "https://github.com/RookGames"
   }
 }
